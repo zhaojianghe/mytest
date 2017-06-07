@@ -5,7 +5,7 @@ public class HelloJava {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ Java112 " + say);
+		System.out.println("ÄãºÃ Java1122 " + say);
 
 	}
 }
